@@ -1,5 +1,5 @@
 <h2 align="center">Hello, I'm Zayed, a second-year computer science student based in London, UK. </h2>
-<h4 align="center">Since I've begun, I've developed an addiction for programming, whether it's working with C++ for performance-critical tasks or creating dynamic web apps with JavaScript, React, HTML, and CSS. I'm constantly exploring new ways to solve problems and bring ideas to life through code.</h4>
+<h4 align="center">Since I've begun, I've developed an addiction for programming, whether it's working with C++ for performance-critical tasks or creating dynamic web apps with TypeScript, React, HTML, and CSS. I'm constantly exploring new ways to solve problems and bring ideas to life through code.</h4>
 
 ###
 
